@@ -4,8 +4,8 @@ Main features:
 * City builder
 * Needs-based simulation
 * Indirect control
-* 3D or 2D?
-* Grid-based or Grid-less?
+* 2D
+* Grid-based
 
 Inspirations:
 * Dwarf Fortress
